@@ -13,6 +13,8 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<span>C/C++</span>
-  <span>Web Development</span>
+<ul>
+  <li><span>C/C++</span></li>
+  <li><span>Javascript</span></li>
+  <li><span>React Js</span></li>
 </p>
