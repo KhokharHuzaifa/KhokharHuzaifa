@@ -7,4 +7,3 @@
   <li><span>React Js</span></li>
   <li>Frontend Development</li>
 </ul>
-<h3 align="center">Sign in first to see my contributions</h3>
