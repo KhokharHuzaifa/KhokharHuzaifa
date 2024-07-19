@@ -1,16 +1,28 @@
-## Hi there 👋
+<h3 align="center">I'm a Passionate Developer</h3>
+    <br /> <hr /><br>
+    <h2 align="center">Languages | Tools | Frameworks</h2>
+    <br />
+    <br />
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,javascript,react,nodejs,expressjs,mongodb,c,cpp,python,vscode,git,github" /><br />
+    </div>
 
-<!--
-**KhokharHuzaifa/khokharhuzaifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br />
+<br/>
 
-Here are some ideas to get you started:
+<h2 align="center">⚡ Stats ⚡</h2>
+    <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+        <img width=325 align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=KhokharHuzaifa&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark&border&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+            alt="HuzaifaZafar" />
+            
+  <img width=390 align="center"
+            src="https://github-readme-stats.vercel.app/api?username=KhokharHuzaifa&show_icons=true&locale=en&count_private=true&theme=dark&rank_icon=github&border"
+            alt="HuzaifaZafar" />
+
+ <img width=390 align="center"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=KhokharHuzaifa&count_private=true&theme=dark&border&"
+            alt="HuzaifaZafar" />
+    </div>
